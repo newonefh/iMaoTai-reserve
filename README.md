@@ -72,10 +72,6 @@ python3 main.py
 
 #### 感谢老板赞赏，排名不分先后
 
-- 佚名
-- *宇
-- *wang
-- *LiuLiang
 - *辉
 - *困
 - *ame
